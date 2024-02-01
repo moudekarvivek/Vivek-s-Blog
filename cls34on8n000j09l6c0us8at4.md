@@ -25,7 +25,9 @@ c. 💂‍♂️Others: This category includes all users who are not the owner o
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1706786311740/123c9151-2a7f-4eb3-ae0c-a898c3c175cf.png align="center")
 
-1. **📏Changing Ownership with <mark>"chown</mark>**<mark>"</mark>: The "chown" command is used to change the ownership of a file or directory. For instance:
+1. ### **📏Changing Ownership with <mark>"chown</mark>**<mark>"</mark>:
+    
+    The "chown" command is used to change the ownership of a file or directory. For instance:
     
 
 ```plaintext
@@ -42,21 +44,18 @@ After running this command, the ownership of "example.txt" would be transferred 
 
 It's important to note that the user executing the `chown` command must have the necessary permissions to change ownership of the file or directory.
 
-1. 📏**Changing Group Permissions with <mark>"chgrp"</mark>**: To modify the group ownership of a file or directory, the "chgrp" command is used:
+1. ### 📏**Changing Group Permissions with <mark>"chgrp"</mark>**:
+    
+    To modify the group ownership of a file or directory, the "chgrp" command is used:
     
 
 ```plaintext
 chgrp new_group filename
 ```
 
-1. 📏**Changing Group Permissions with <mark>"chgrp</mark>**<mark>"</mark>: To modify the group ownership of a file or directory, the "chgrp" command is used:
+1. ### 📏**Modifying Other Users' Permissions with <mark>"chmod"</mark>**:
     
-
-```plaintext
-chgrp new_group filename
-```
-
-1. 📏**Modifying Other Users' Permissions with <mark>"chmod"</mark>**: The "chmod" command is employed to adjust the permissions for users outside the owner and group categories. Permissions can be set using numerical values or symbolic notation:
+    To modify the group ownership of a file or directory, the "chgrp" command is used:
     
     ```plaintext
     chmod 777 filename
@@ -64,7 +63,9 @@ chgrp new_group filename
     # read-4,Write-2,execute-1
     ```
     
-    1. 📏**Checking Permissions with <mark>"ls -ltr"</mark>**: After modifying permissions, the "ls -ltr" command can be used to display detailed information about files and directories, including ownership and permissions.
+    1. ### 📏**Checking Permissions with <mark>"ls -ltr"</mark>:**
+        
+        After modifying permissions, the "ls -ltr" command can be used to display detailed information about files and directories, including ownership and permissions.
         
         ```plaintext
         $ ls -ltr
