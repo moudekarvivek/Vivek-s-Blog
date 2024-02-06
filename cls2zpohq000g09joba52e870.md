@@ -1,10 +1,10 @@
 ---
-title: "Day 4 Task: Basic Linux Shell Scripting for DevOps Engineers 🚀"
+title: "💻Day 4 Task: Basic Linux Shell Scripting for DevOps Engineers 🚀"
 datePublished: Thu Feb 01 2024 09:04:28 GMT+0000 (Coordinated Universal Time)
 cuid: cls2zpohq000g09joba52e870
 slug: day-4-task-basic-linux-shell-scripting-for-devops-engineers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706775026994/08525bae-df16-486e-b43a-61bf09f1b2d7.png
-tags: devops, 90daysofdevops, trainwithshubham, tws
+tags: linux, devops, 90daysofdevops, trainwithshubham, tws
 
 ---
 
