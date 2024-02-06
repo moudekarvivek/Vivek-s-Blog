@@ -1,5 +1,5 @@
 ---
-title: "Day 7 :Understanding package manager and systemctl"
+title: "📦Day 7 :Understanding package manager and systemctl"
 datePublished: Sat Feb 03 2024 11:23:11 GMT+0000 (Coordinated Universal Time)
 cuid: cls5zjry6000009kxdxj6anoa
 slug: day-7-understanding-package-manager-and-systemctl
