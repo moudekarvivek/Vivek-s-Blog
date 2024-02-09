@@ -1,5 +1,5 @@
 ---
-title: "🐙Day 8 : Basic Git & GitHub for DevOps Engineers"
+title: "🐙Day 8 - Basic Git & GitHub for DevOps Engineers"
 datePublished: Sun Feb 04 2024 18:08:38 GMT+0000 (Coordinated Universal Time)
 cuid: cls7th11w000309jrdivk7tyw
 slug: day-8-basic-git-github-for-devops-engineers
