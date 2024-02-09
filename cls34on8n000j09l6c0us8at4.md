@@ -1,5 +1,5 @@
 ---
-title: "📜Day 6 Task: File Permissions and Access Control Lists"
+title: "📜Day 6 - File Permissions and Access Control Lists"
 datePublished: Thu Feb 01 2024 11:23:38 GMT+0000 (Coordinated Universal Time)
 cuid: cls34on8n000j09l6c0us8at4
 slug: day-6-task-file-permissions-and-access-control-lists
