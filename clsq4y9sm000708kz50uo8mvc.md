@@ -1,8 +1,8 @@
 ---
-title: "🐍Day 13 - Basics of Python (Part - I)"
+title: "🐍Day 13 - Basics of Python(Part - I)"
 datePublished: Sat Feb 17 2024 13:49:49 GMT+0000 (Coordinated Universal Time)
 cuid: clsq4y9sm000708kz50uo8mvc
-slug: day-13-basics-of-python-part-i
+slug: day-13-basics-of-pythonpart-i
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708171938824/06a3d2a9-3a94-4095-99d6-4c2519b6fb6d.png
 tags: python, python3, devops, python-beginner, devops-journey, 90daysofdevops, trainwithshubham, vivekmoudekar
 
