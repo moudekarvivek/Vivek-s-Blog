@@ -85,19 +85,22 @@ This is used to reset the commit or undo the commit to previous changes where we
 
 There are different reset modes and let see the flags for them:
 
-1) **Hard Reset (--hard)**: Resets both the index and working directory to the specified commit. This is the most aggressive mode, to shift pointer to the previous commit completely now head will be on previous commit completely.
+1. **Hard Reset (--hard)**: Resets both the index and working directory to the specified commit. This is the most aggressive mode, to shift pointer to the previous commit completely now head will be on previous commit completely.
+    
 
 ```plaintext
 git reset e3df726 --hard
 ```
 
-2) **Soft Reset (--soft)**: Moves the HEAD to the specified commit but keeps changes in the index and working directory, or we can say normal reset.
+1. **Soft Reset (--soft)**: Moves the HEAD to the specified commit but keeps changes in the index and working directory, or we can say normal reset.
+    
 
 ```plaintext
 git reset f2gh776 --soft
 ```
 
-3) **Mixed Reset (--mixed)**: Default mode. Resets the index to the specified commit but keeps changes in the working directory.
+1. **Mixed Reset (--mixed)**: Default mode. Resets the index to the specified commit but keeps changes in the working directory.
+    
 
 ```plaintext
 git reset i7r89yu --mixed
