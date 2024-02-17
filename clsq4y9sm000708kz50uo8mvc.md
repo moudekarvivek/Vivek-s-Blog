@@ -1,5 +1,5 @@
 ---
-title: "🐍Day 13- Basics of Python (Part-I)"
+title: "🐍Day 13- Basics of Python"
 datePublished: Sat Feb 17 2024 13:49:49 GMT+0000 (Coordinated Universal Time)
 cuid: clsq4y9sm000708kz50uo8mvc
 slug: day-13-basics-of-pythonpart-i
