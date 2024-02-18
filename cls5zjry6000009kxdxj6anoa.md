@@ -4,7 +4,7 @@ datePublished: Sat Feb 03 2024 11:23:11 GMT+0000 (Coordinated Universal Time)
 cuid: cls5zjry6000009kxdxj6anoa
 slug: day-7-understanding-package-manager-and-systemctl
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706952721684/fb444eec-22a1-4d26-8e7b-04524a3d9adb.png
-tags: devops, 90daysofdevops, shubhamlondhe, trainwithshubham, devopscommunity
+tags: devops, package-manager, systemctl, 90daysofdevops, shubhamlondhe, trainwithshubham, devopscommunity
 
 ---
 
