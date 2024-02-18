@@ -4,6 +4,7 @@ datePublished: Tue Jan 30 2024 19:45:08 GMT+0000 (Coordinated Universal Time)
 cuid: cls0rpvqe000009jw2ntq0un8
 slug: day-3-linux-basic-commands-part-ii
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706637873251/f406b375-7bb4-4009-ab29-b020e5b50c45.avif
+tags: linux, devops, linux-for-beginners, linux-basics, devops-articles, 90daysofdevops, vivekmoudekar
 
 ---
 
