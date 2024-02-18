@@ -4,7 +4,7 @@ datePublished: Sat Jan 27 2024 18:45:22 GMT+0000 (Coordinated Universal Time)
 cuid: clrwf9gp900000ajkghnxgla6
 slug: unveiling-the-power-of-devops-transforming-the-future-of-software-development
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706380238206/f338eee0-7c99-447c-b107-b0eb1679250a.avif
-tags: devops, 90daysofdevops
+tags: devops, devops-journey, 90daysofdevops, trainwithshubham, devopscommunity, vivekmoudekar
 
 ---
 
