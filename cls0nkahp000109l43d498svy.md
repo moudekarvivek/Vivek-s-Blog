@@ -4,7 +4,7 @@ datePublished: Tue Jan 30 2024 17:48:49 GMT+0000 (Coordinated Universal Time)
 cuid: cls0nkahp000109l43d498svy
 slug: day-2-getting-started-with-linux-commands-a-quick-guide-part-i
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706636776414/5c086564-0f68-4ecd-acb8-31e4d30311b1.avif
-tags: linux, devops, 90daysofdevops, trainwithshubham, devopscommunity
+tags: linux, devops, linux-for-beginners, linux-basics, 90daysofdevops, shubhamlondhe, trainwithshubham, devopscommunity, vivekmoudekar
 
 ---
 
