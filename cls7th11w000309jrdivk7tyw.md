@@ -4,7 +4,7 @@ datePublished: Sun Feb 04 2024 18:08:38 GMT+0000 (Coordinated Universal Time)
 cuid: cls7th11w000309jrdivk7tyw
 slug: day-8-basic-git-github-for-devops-engineers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707068620328/6e51f15d-089e-4d4e-bd9c-f52869b98dd6.png
-tags: devops, 90daysofdevops, trainwithshubham, 90daysofdevopschallenge, devopscommunity
+tags: github, git, devops, git-commands, 90daysofdevops, trainwithshubham, git-github-version-control-linux-git-commands-github-repositories-cheat-sheet-git-branching-git-workflow-collaboration-git-history-git-commit-git-merge-git-rebase-git-pull-request-git-fork-git-stash-git-remote-git-ignore-git-hooks-github-issues-github-actions-github-pages-github-security-git-for-beginners-advanced-git-techniques-github-collaboration-git-integration-git-flow-git-best-practices, 90daysofdevopschallenge, devopscommunity, vivekmoudekar
 
 ---
 
