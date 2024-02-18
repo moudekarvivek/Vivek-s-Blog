@@ -4,7 +4,7 @@ datePublished: Fri Feb 09 2024 07:50:23 GMT+0000 (Coordinated Universal Time)
 cuid: clsecl7yt000a08jnfazj6n14
 slug: day-10-advance-git-github-for-devops-engineers-part-i
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707464215146/2bd56a56-4e02-42b6-99c1-14545f2fb027.png
-tags: devops, 90daysofdevops, shubhamlondhe, trainwithshubham, devopscommunity
+tags: devops, 90daysofdevops, shubhamlondhe, trainwithshubham, devopscommunity, advance-git-github-for-devops, vivekmoudekar
 
 ---
 
