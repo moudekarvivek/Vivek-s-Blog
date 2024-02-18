@@ -4,7 +4,7 @@ datePublished: Thu Feb 15 2024 05:54:03 GMT+0000 (Coordinated Universal Time)
 cuid: clsmt2qma000a0ai9g6xtgvnn
 slug: day-12-linux-git-and-github-commands-cheat-sheet
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707976158823/0d2042d7-0549-48a3-a804-884e44ae50c1.png
-tags: linux, github, git, linux-for-beginners, linux-basics, 90daysofdevops, trainwithshubham, 90daysofdevops-chanllenge
+tags: linux, github, git, linux-for-beginners, linux-basics, 90daysofdevops, trainwithshubham, 90daysofdevops-chanllenge, vivekmoudekar
 
 ---
 
